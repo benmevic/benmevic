@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Merhaba 👋
 Ben Meriç, Zonguldak Bülent Ecevit Üniversitesi Bilgisayar Mühendisliği (4/4) bölümünde okuyorum ve siber güvenlik ile ilgileniyorum.
 
