@@ -1,15 +1,21 @@
-# Merhaba 👋
-Ben Meriç, Zonguldak Bülent Ecevit Üniversitesi Bilgisayar Mühendisliği (4/4) bölümünde okuyorum ve siber güvenlik ile ilgileniyorum.
+# Hi there 👋 I'm Meriç
+I'm a Computer Engineering student at Zonguldak Bülent Ecevit University.
+I'm passionate about Cyber Security and constantly improving myself in this field.
 
-## 🚀 Hakkımda
-- Siber güvenlik ile ilgileniyorum
-- CTF çözüyorum
-
-## 🔧 Kullandığım Teknolojiler
+## About Me
+- Computer Engineering student
+- Interested in Cyber Security
+- Learning through CTF challenges and hands-on practice
+- Curious about system security, networking, and ethical hacking
+  
+## ⚡ Technologies & Skills
 - Linux
+- C++
+- HTML/CSS/JS
 - Python
 - SQL
-
+- Networking Basics
+- Penetration Testing
 
 
 
